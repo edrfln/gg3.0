@@ -1,0 +1,112 @@
+[{
+  "_id": {
+    "$oid": "64ba7e1d3255e4b4d0a00ec5"
+  },
+  "name": "Adele",
+  "dateOfBirth": "1988-05-05",
+  "genres": [
+    "Pop",
+    "Soul"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64ba7e993255e4b4d0a00ec6"
+  },
+  "name": "Ed Sheeran",
+  "dateOfBirth": "1991-02-17",
+  "genres": [
+    "Pop",
+    "Folk"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64ba7eb63255e4b4d0a00ec7"
+  },
+  "name": "Beyoncé",
+  "dateOfBirth": "1981-09-04",
+  "genres": [
+    "R&B",
+    "Pop"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64ba7ec23255e4b4d0a00ec8"
+  },
+  "name": "Drake",
+  "dateOfBirth": "1986-10-24",
+  "genres": [
+    "Hip Hop",
+    "Rap"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64ba7ecf3255e4b4d0a00ec9"
+  },
+  "name": "Taylor Swift",
+  "dateOfBirth": "1989-12-13",
+  "genres": [
+    "Pop",
+    "Country"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64ba7ed63255e4b4d0a00eca"
+  },
+  "name": "Bruno Mars",
+  "dateOfBirth": "1985-10-08",
+  "genres": [
+    "Pop",
+    "R&B"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64ba7ee43255e4b4d0a00ecb"
+  },
+  "name": "Rihanna",
+  "dateOfBirth": "1988-02-20",
+  "genres": [
+    "R&B",
+    "Pop",
+    "Dancehall"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64ba7eeb3255e4b4d0a00ecc"
+  },
+  "name": "Kendrick Lamar",
+  "dateOfBirth": "1987-06-17",
+  "genres": [
+    "Hip Hop",
+    "Rap"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64ba7efa3255e4b4d0a00ecd"
+  },
+  "name": "Billie Eilish",
+  "dateOfBirth": "2001-12-18",
+  "genres": [
+    "Pop",
+    "Alternative"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64ba7f043255e4b4d0a00ece"
+  },
+  "name": "Post Malone",
+  "dateOfBirth": "1995-07-04",
+  "genres": [
+    "Hip Hop",
+    "Rap",
+    "Pop"
+  ]
+}]
